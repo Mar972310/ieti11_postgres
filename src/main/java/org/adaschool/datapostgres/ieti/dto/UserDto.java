@@ -1,4 +1,3 @@
-    
 package org.adaschool.datapostgres.ieti.dto;
 
 public class UserDto {
@@ -28,5 +27,3 @@ public class UserDto {
         this.email = email;
     }
 }
-
-
